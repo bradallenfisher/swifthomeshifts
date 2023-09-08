@@ -1,11 +1,11 @@
 ---
 title: Ultimate Guide to Selling Your House Quickly
 description: Expert guidance on selling your home quickly and efficiently. Tailored services, transparent processes, and emotional support for a seamless transition.
-featured_img: /img/logo.png
+featured_img: /img/sell-your-house-fast.webp
 date: 2023-09-07
 tags:
- - celebrity
- - tv
+ - real estate
+ - sellers
 type: post
 meta:
   site:

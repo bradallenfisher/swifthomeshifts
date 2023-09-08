@@ -8,12 +8,14 @@ layout: layouts/base.njk
 <h1>{{ title }}</h1>
 
 <ul class="post-metadata">
+	<li class="author-img"><img src="/img/katie-meta.jpg" alt="Photo of Katie Rossi, author of this blog" width="300" height="200"></li>
 	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
-	{%- for tag in tags | filterTagList %}
+	<li>{%- for tag in tags | filterTagList %}
 	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
-	{%- endfor %}
+	<a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}
+	{%- endfor %}</li>
 </ul>
+<div style="margin-top:20px;"><img src="{{ featured_img }}" alt="{{ alt_text }}" width="1200" height="800"></div>
 <p class="excerpt">{{ description or meta.description }}</p>
 <section class="list">
 {{ content | safe }}
