@@ -4,8 +4,8 @@ module.exports = {
 	language: "en",
 	description: "Sell your house swiftly",
 	author: {
-		name: "Grant Garab",
-		email: "grant@wearehomebuyers.com",
-		url: "https://www.wearehomebuyers.com/author/grant-garab/"
+		name: "Katie Rossi",
+		email: "katie.rossi.forever@gmail.com",
+		url: "https://swifthomeshifts.com/about"
 	}
 }

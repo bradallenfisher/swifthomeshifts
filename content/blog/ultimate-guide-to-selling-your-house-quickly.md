@@ -23,7 +23,7 @@ meta:
   image:
     src: /img/logo.png
   author:
-    name: Grant Garab
+    name: Katie Rossi
   published: 2023-09-07
   modified: 2023-08-07
 ---

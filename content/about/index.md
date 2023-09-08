@@ -4,26 +4,16 @@ eleventyNavigation:
   key: About Me
   order: 3
 ---
-# About Me
-### Hi, I’m Grant Garab…
+# Hi, I'm Katie Rossi {style="text-align:center"}
+![Katie Rossi oh yea.](/img/katie.jpg) {style="text-align:center"}
 
-I am the proud co-owner of WeAreHomeBuyers.com. As a retired Marine, I devoted over sixteen years of my life to serving our great country. In 2019, my life took an unexpected turn when I was involved in a head-on collision with a texting teenager while riding my motorcycle home from work…
+## Background
 
-## Then What Happened?
+Katie Rossi is not just a passionate writer from the coastal town of Santa Monica, California, but also a seasoned real estate consultant with over a decade of experience in the industry. With a keen eye for design and a heart that understands the emotional intricacies of finding a home, Katie specializes in offering creative solutions to the most challenging housing problems.
 
-This near-fatal accident profoundly altered my perspective on career goals for both myself and my family.
+## Education
 
-While confined to a wheelchair for over eight months and undergoing more than a dozen surgeries, I used my downtime to contemplate the next chapter in my life, considering the future of my wife of fifteen years and our three sons.
+Having graduated with a degree in [Urban Planning from UCLA](https://luskin.ucla.edu/urban-planning), Katie combines her academic knowledge with her on-ground experience to ensure her clients find homes that aren't just structures, but spaces that resonate with their dreams and aspirations. Whether it's transforming a compact city apartment into a spacious haven or finding a hidden gem in the bustling real estate market, Katie's innovative approach has made her one of the most sought-after consultants in the area.
 
-With retirement from the Marine Corps on the horizon and years of experience assisting homeowners with their unwanted properties as a side job, I decided to establish WeAreHomeBuyers.com.
-
-
-## Grant's Mission
-My primary objective is to buy and sell houses and properties in a way that benefits all parties involved. I am driven by a relentless determination to transform seemingly impossible situations into viable solutions. For me, the needs of my customers always come first. No matter the circumstance, my team and I are here to devise a strategy that addresses your real estate challenges.
-
-At WeAreHomeBuyers.com, we take pride in working closely with our clients and forging lasting friendships along the way. We are not just a company; we are a trusted partner dedicated to finding innovative solutions for your real estate needs.
-
-Grant garab will buy your house fast for a fair cash offer.
-I commit to being fair, honest, and respectful in every interaction. I will act with integrity and never take advantage of a difficult situation. I will maintain a positive attitude and always do whatever it takes to arrive at a win-win outcome for everyone.
-
-I believe that a person dealing with a difficult situation needs someone who can help. I promise to be there for you as I do my absolute best to truly be the solution to your real estate troubles.
+## Lifestyle
+Outside of her professional life, Katie's love for literature and the arts often finds its way into her work. She believes that every home has a story to tell, and she's dedicated to helping her clients write theirs. When she's not scouting properties or drafting articles, Katie can be found exploring hidden beaches, sipping on a cup of jasmine tea, or diving into a classic novel. Her writings, a blend of her professional insights and personal journeys, have been featured in various literary magazines, and she's currently working on a book that melds her love for real estate with her passion for storytelling.
