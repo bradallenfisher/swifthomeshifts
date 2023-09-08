@@ -9,15 +9,15 @@ tags:
 type: post
 meta:
   site:
-    name: Curious Lists
-    description: Lists spurred from curiosity.
-    url: https://curiouslists.com
+    name: Swift Home Shifts
+    description: Helping real estate investors and owners of houses.
+    url: https://swifthomeshifts.com
     logo:
       src: /img/logo.png
       width: 301
       height: 242
   language: en-US
-  url: https://curiouslists.com/ultimate-guide-to-selling-your-house-quickly
+  url: https://swifthomeshifts.com/blog/ultimate-guide-to-selling-your-house-quickly/
   title: Ultimate Guide to Selling Your House Quickly
   description: Expert guidance on selling your home quickly and efficiently. Tailored services, transparent processes, and emotional support for a seamless transition.
   image:

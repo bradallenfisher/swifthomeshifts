@@ -15,7 +15,7 @@ layout: layouts/base.njk
 	<a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}
 	{%- endfor %}</li>
 </ul>
-<div style="margin-top:20px;"><img src="{{ featured_img }}" alt="{{ alt_text }}" width="1200" height="800"></div>
+<div style="margin-top:20px;"><img src="{{ featured_img }}" alt="{{ alt_text }}" width="600" height="400"></div>
 <p class="excerpt">{{ description or meta.description }}</p>
 <section class="list">
 {{ content | safe }}
