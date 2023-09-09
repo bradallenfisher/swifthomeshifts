@@ -2,10 +2,10 @@
 title: The Surprising Ways High Interest Rates Impact Real Estate Investors
 description: Explore how rising interest rates in 2023 influence real estate investments. Understand the challenges and opportunities they present for investors.
 featured_img: /img/interest-rates.webp
-date: 2023-09-07
+date: 2023-09-09
 tags:
  - real estate
- - sellers
+ - investors
 type: post
 meta:
   site:
