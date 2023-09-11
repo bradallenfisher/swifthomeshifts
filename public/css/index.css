@@ -301,10 +301,10 @@ h2 + .header-anchor {
 .list ul li::before,.list ol li::before {
   display: table-cell;
   text-align: right;
-  content: "🏠";
+  content: "\2733";
   font-size: 1.3em;	
   font-weight: bold;
-  color: #FF404C;
+  color: #38aa62;
   padding-right: 20px;
   padding-left: 25px;
 }
