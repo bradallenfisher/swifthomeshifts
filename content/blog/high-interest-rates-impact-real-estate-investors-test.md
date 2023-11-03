@@ -19,7 +19,7 @@ meta:
   language: en-US
   url: https://swifthomeshifts.com/blog/ultimate-guide-to-selling-your-house-quickly/
   title: The Surprising Ways High Interest Rates Impact Real Estate Investors
-  description: Explore how rising interest rates in 2023 influence real estate investments. Understand the challenges and opportunities they present for investors.
+  description: Explore how rising interest rates in 2023 influence real estate investments. Understand the challenges and opportunities they present for investors test.
   image:
     src: /img/logo.png
   author:
