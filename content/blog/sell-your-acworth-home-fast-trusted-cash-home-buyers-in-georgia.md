@@ -108,7 +108,7 @@ Unlike other **companies that buy houses**, our services extend beyond buying yo
 
 ### Cash Home Buyers Rome GA
 
-We are the leading **cash home buyers Rome GA** residents trust for quick home sales. We buy houses in as-is condition and can close the deal in as little as seven days. Don't hesitate to [contact us](https://www.wearehomebuyers.com/we-buy-houses-rome-ga/), and let us make your home sale simple.
+We are the leading **cash home buyers Rome GA** residents trust for quick home sales. We buy houses in as-is condition and can close the deal in as little as seven days. Don't hesitate to [contact us](https://www.wearehomebuyers.com/sell-my-house-fast-acworth-ga/), and let us make your home sale simple.
 
 ## Conclusion
 
