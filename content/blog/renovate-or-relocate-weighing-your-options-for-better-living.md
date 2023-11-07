@@ -30,7 +30,7 @@ meta:
   modified: 2023-11-06
 ---
 
-# Are You Better Off Renovating or Moving?
+## Are You Better Off Renovating or Moving?
 
 Deciding whether to stay put or make a move is a dilemma homeowners often face. It's a decision that poses many questions: Do you love your current home enough to renovate? Does your current house no longer meet your needs? Are you craving for a change of scenery? Or maybe, are the costs of moving likely to surpass the price of renovating your existing home?
 
