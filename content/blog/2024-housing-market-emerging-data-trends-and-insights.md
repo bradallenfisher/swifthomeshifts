@@ -5,9 +5,9 @@ featured_img: /img/2024-housing-market-emerging-data-trends-and-insights.webp
 alt_text: "2024 Housing Market: Emerging Data Trends and Insights"
 date: 2023-11-07
 tags:
- - Housing Market
- - Trends
- - Data
+ - housing market
+ - trends
+ - data
 type: post
 meta:
   site:
