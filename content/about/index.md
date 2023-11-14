@@ -1,10 +1,11 @@
 ---
-layout: layouts/base.njk
+layout: layouts/posts_body.njk
 eleventyNavigation:
   key: About Me
   order: 3
 ---
-# Hi, I'm Katie Rossi {style="text-align:center"}
+# About Me
+
 ![Katie Rossi oh yea.](/img/katie.jpg) {style="text-align:center"}
 
 ## Background
